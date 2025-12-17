@@ -1,3 +1,5 @@
+![Flux logo](https://raw.githubusercontent.com/flux-framework/.github/main/images/logo.jpg)
+
 Flux Framework is a modular, open source framework for resource management
 on HPC clusters and Cloud.
 
