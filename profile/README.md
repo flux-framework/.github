@@ -1,8 +1,5 @@
 ![Flux logo](https://raw.githubusercontent.com/flux-framework/.github/main/images/logo.png)
 
-Flux Framework is a modular, open source framework for resource management
-on HPC clusters and Cloud.
-
 ## Organization Administrators
 
 | Administrator    | GitHub ID                                             | Affiliation |
