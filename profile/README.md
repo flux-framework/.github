@@ -1,4 +1,4 @@
-![Flux logo](https://raw.githubusercontent.com/flux-framework/.github/main/images/logo.png)
+<img src="https://raw.githubusercontent.com/flux-framework/.github/main/images/logo.png" alt="Flux logo" width="300" height="200">
 
 ## Organization Administrators
 
