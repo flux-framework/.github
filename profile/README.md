@@ -6,6 +6,7 @@
 | ---------------- | ----------------------------------------------------- | ----------- |
 | Jim Garlick      | [garlick](https://github.com/garlick)                 | LLNL        |
 | Mark Grondona    | [grondo](https://github.com/grondo)                   | LLNL        |
+| Daniel Milroy    | [milroy](https://github.com/milroy)                   | LLNL        |
 | Tom Scogland     | [trws](https://github.com/trws)                       | LLNL        |
 
 ## Code of Conduct
