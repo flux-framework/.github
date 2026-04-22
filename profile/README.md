@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/flux-framework/.github/main/images/logo.png" alt="Flux logo" width="300" height="200">
+<img src="https://raw.githubusercontent.com/flux-framework/.github/main/images/logo.png" alt="Flux logo" height="200">
 
 ## Organization Administrators
 
